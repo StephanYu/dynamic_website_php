@@ -1,4 +1,4 @@
-    <div class="content">
+
       <div id="footer" class="cf">
         
           <div class="column three">

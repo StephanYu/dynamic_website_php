@@ -6,7 +6,7 @@
 <html>
 
 <head>
-  <title></title>
+  <title><?php echo TITLE; ?></title>
   <link href="/assets/styles.css" rel="stylesheet">
 </head>
 
@@ -23,3 +23,5 @@
     <div id="nav">
       <?php include('includes/nav.php'); ?>
     </div><!-- nav -->
+
+    <div class="content">
